@@ -212,6 +212,10 @@ ul {
     justify-content: space-between;
 }
 
+.heroes__images {
+    width: 100%;
+}
+
 .heroes__slider-img {
     max-width: 775px;
 }
